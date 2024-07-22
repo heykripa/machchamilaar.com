@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Machchamilaar.com	</title>
-	<atom:link href="https://machchamilaar.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://machchamilaar.com/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Machchamilaar.com Website</description>
 	<lastBuildDate>Wed, 05 Apr 2023 10:38:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

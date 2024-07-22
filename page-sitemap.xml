@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://machchamilaar.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://machchamilaar.com/</loc>
+		<loc>/</loc>
 		<lastmod>2023-04-05T10:22:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://machchamilaar.com/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-14-at-12.16.26.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-14-at-12.16.26.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/literary-achievements/</loc>
+		<loc>/literary-achievements/</loc>
 		<lastmod>2023-04-05T10:38:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/konkani-books/</loc>
+		<loc>/konkani-books/</loc>
 		<lastmod>2023-04-05T10:35:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://machchamilaar.com/wp-content/uploads/2023/03/Picture22.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Picture22.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://machchamilaar.com/wp-content/uploads/2023/03/book-768x1260.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/book-768x1260.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/literary-works/</loc>
+		<loc>/literary-works/</loc>
 		<lastmod>2023-04-05T10:24:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/reports/</loc>
+		<loc>/reports/</loc>
 		<lastmod>2023-04-05T10:00:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/coming-events/</loc>
+		<loc>/coming-events/</loc>
 		<lastmod>2023-04-05T09:56:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://machchamilaar.com//wp-content/uploads/2023/03/Machchamilaar-768x1089.jpeg</image:loc>
+			<image:loc>//wp-content/uploads/2023/03/Machchamilaar-768x1089.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/contact/</loc>
+		<loc>/contact/</loc>
 		<lastmod>2023-04-04T06:12:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://machchamilaar.com/local-events/</loc>
+		<loc>/local-events/</loc>
 		<lastmod>2023-04-04T06:09:47+00:00</lastmod>
 	</url>
 </urlset>

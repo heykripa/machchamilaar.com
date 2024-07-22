@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Poetry &#8211; Machchamilaar.com</title>
-	<atom:link href="https://machchamilaar.com/category/poetry/feed/" rel="self" type="application/rss+xml" />
-	<link>https://machchamilaar.com/</link>
+	<atom:link href="/category/poetry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Machchamilaar.com Website</description>
 	<lastBuildDate>Wed, 05 Apr 2023 10:28:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://machchamilaar.com/wp-content/uploads/2021/02/logo_machchamilar-copy-150x150.png</url>
+	<url>/wp-content/uploads/2021/02/logo_machchamilar-copy-150x150.png</url>
 	<title>Poetry &#8211; Machchamilaar.com</title>
-	<link>https://machchamilaar.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>ವಿಜ್ಞಾನಿ</title>
-		<link>https://machchamilaar.com/%e0%b2%b5%e0%b2%bf%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8%e0%b2%bf/</link>
+		<link>/%e0%b2%b5%e0%b2%bf%e0%b2%9c%e0%b3%8d%e0%b2%9e%e0%b2%be%e0%b2%a8%e0%b2%bf/</link>
 		
 		<dc:creator><![CDATA[kripa]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2023 10:34:06 +0000</pubDate>
@@ -60,7 +60,7 @@
 			</item>
 		<item>
 		<title>ಮೀಟ್ ಆನಿ ಉಜ್ವಾಡ್</title>
-		<link>https://machchamilaar.com/%e0%b2%ae%e0%b3%80%e0%b2%9f%e0%b3%8d-%e0%b2%86%e0%b2%a8%e0%b2%bf-%e0%b2%89%e0%b2%9c%e0%b3%8d%e0%b2%b5%e0%b2%be%e0%b2%a1%e0%b3%8d/</link>
+		<link>/%e0%b2%ae%e0%b3%80%e0%b2%9f%e0%b3%8d-%e0%b2%86%e0%b2%a8%e0%b2%bf-%e0%b2%89%e0%b2%9c%e0%b3%8d%e0%b2%b5%e0%b2%be%e0%b2%a1%e0%b3%8d/</link>
 		
 		<dc:creator><![CDATA[kripa]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2023 10:31:46 +0000</pubDate>
@@ -90,7 +90,7 @@
 			</item>
 		<item>
 		<title>ಫುಂಕ್ಯಾಚ್ಯೊ ದೆಣ್ಗ್ಯೊ</title>
-		<link>https://machchamilaar.com/%e0%b2%ab%e0%b3%81%e0%b2%82%e0%b2%95%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%9a%e0%b3%8d%e0%b2%af%e0%b3%8a-%e0%b2%a6%e0%b3%86%e0%b2%a3%e0%b3%8d%e0%b2%97%e0%b3%8d%e0%b2%af%e0%b3%8a/</link>
+		<link>/%e0%b2%ab%e0%b3%81%e0%b2%82%e0%b2%95%e0%b3%8d%e0%b2%af%e0%b2%be%e0%b2%9a%e0%b3%8d%e0%b2%af%e0%b3%8a-%e0%b2%a6%e0%b3%86%e0%b2%a3%e0%b3%8d%e0%b2%97%e0%b3%8d%e0%b2%af%e0%b3%8a/</link>
 		
 		<dc:creator><![CDATA[kripa]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2023 10:27:52 +0000</pubDate>
@@ -120,7 +120,7 @@
 			</item>
 		<item>
 		<title>ಸೊರೊ</title>
-		<link>https://machchamilaar.com/poetry-2/</link>
+		<link>/poetry-2/</link>
 		
 		<dc:creator><![CDATA[kripa]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2023 10:25:24 +0000</pubDate>
@@ -150,7 +150,7 @@
 			</item>
 		<item>
 		<title>ಬಜೆಟ್</title>
-		<link>https://machchamilaar.com/poetry-1/</link>
+		<link>/poetry-1/</link>
 		
 		<dc:creator><![CDATA[kripa]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2023 10:14:16 +0000</pubDate>
